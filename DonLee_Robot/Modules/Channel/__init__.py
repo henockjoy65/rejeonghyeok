@@ -1,2 +1,2 @@
 DEPLOY = "💡 DEPLOY NOW 💡"
-HEROKU = "https://youtu.be/lI71HsWzTKE"
+HEROKU = "https://www.youtube.com/c/TheSwoon"
