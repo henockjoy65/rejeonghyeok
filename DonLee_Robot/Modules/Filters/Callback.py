@@ -1637,13 +1637,13 @@ async def cb_about(bot, update: CallbackQuery):
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b><i>Bot Funtion:</i></b> <i>Auto Filter Files</i>\n"
-    text+=f"""\n<b><i>Bot Group:</i></b> <a href="https://t.me/Mo_Tech_GROUP">Mo Tech</a>\n"""
+    text+=f"""\n<b><i>Bot Group:</i></b> <a href="https://t.me/FT_Chats">Filmotainment</a>\n"""
 
     buttons = [
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="t.me/Mrk_yt"
+                    "My Dev ⚡", url="t.me/FTAdminbot"
                 ),
                 
             InlineKeyboardButton
@@ -1675,17 +1675,17 @@ async def callback_data(bot, update: CallbackQuery):
                       [
                           InlineKeyboardButton
                               (
-                                  '📢Update Channel', url='t.me/Mo_Tech_YT'
+                                  '📢New Release', url='t.me/FT_NewRelease'
                               ),
                           InlineKeyboardButton
                               (
-                                  '💡More Botz', url='t.me/MT_Botz'
+                                  '💡Series Land', url='t.me/FT_Seriez'
                               )
                       ],
                       [
                           InlineKeyboardButton
                               (
-                                  DEPLOY, url=HEROKU
+                                  DEPLOY, url='www.google.com'
                               )
                      ],
                      [
@@ -1710,7 +1710,7 @@ async def callback_data(bot, update: CallbackQuery):
                       [
                           InlineKeyboardButton
                               (
-                                  DEPLOY, url=HEROKU
+                                  DEPLOY, url='www.google.com'
                               )
                      ],
                      [  
@@ -1739,7 +1739,7 @@ async def callback_data(bot, update: CallbackQuery):
                       [
                           InlineKeyboardButton
                               (
-                                  DEPLOY, url=HEROKU
+                                  DEPLOY, url='www.google.com'
                               )
                      ],
                      [
