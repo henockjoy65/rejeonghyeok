@@ -58,7 +58,7 @@ async def start(bot, update):
                         [
                             Mo_Tech_YT.MO_TECH_YT_02
                                 (
-                                    DEPLOY, url='www.google.com'
+                                    DEPLOY, url='HEROKU'
                                 )
                         ]
                     ]
@@ -83,7 +83,7 @@ async def start(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              DEPLOY, url='www.google.com'
+                              DEPLOY, url='HEROKU'
                           )
                   ],
                   [
@@ -112,7 +112,7 @@ async def help(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              DEPLOY, url='www.google.com'
+                              DEPLOY, url='HEROKU'
                           )
                   ],
                   [   
@@ -145,7 +145,7 @@ async def about(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              DEPLOY, url='www.google.com'
+                              DEPLOY, url='HEROKU'
                           )
                   ],
                   [
