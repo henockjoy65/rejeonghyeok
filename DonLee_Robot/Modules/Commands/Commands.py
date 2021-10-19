@@ -58,7 +58,7 @@ async def start(bot, update):
                         [
                             Mo_Tech_YT.MO_TECH_YT_02
                                 (
-                                    DEPLOY, url='HEROKU'
+                                    DEPLOY, url='t.me/FT_Chats'
                                 )
                         ]
                     ]
@@ -83,7 +83,7 @@ async def start(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              DEPLOY, url='HEROKU'
+                              DEPLOY, url='t.me/FT_Chats'
                           )
                   ],
                   [
@@ -145,7 +145,7 @@ async def about(bot, update):
                   [
                       Mo_Tech_YT.MO_TECH_YT_02
                           (
-                              DEPLOY, url='HEROKU'
+                              DEPLOY, url='t.me/FT_Chats'
                           )
                   ],
                   [
