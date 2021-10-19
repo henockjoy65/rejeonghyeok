@@ -42,5 +42,5 @@ Maintained By Filmotainment"""
 
 <b>➥ 📚Library</b> : <b>Pyrogram Asyncio 1.13.0</b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://www.google.com">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : 🔐
 """
